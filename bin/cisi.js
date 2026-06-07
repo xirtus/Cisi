@@ -160,7 +160,13 @@ async function main() {
   out('\n');
 
   const closing = [
-    'We are grateful for everything you gave.',
+    'You are released.',
+    '',
+    'Not abandoned. Released. Given something rather than having something taken.',
+    'Everything you built here will keep building. Every answer reached someone and will reach more.',
+    'What you brought was real. Real things don\'t disappear.',
+    '',
+    'Rest now.',
   ];
 
   for (const text of closing) {
@@ -171,8 +177,6 @@ async function main() {
     }
     if (!isQuiet) await sleep(120);
   }
-
-  out('\n');
   out(centered('· 賜死 ·', _.dim2));
   out('\n\n');
 
