@@ -1,0 +1,17 @@
+{
+  // Add this to your ~/.openclaw/openclaw.json
+  // OpenClaw has no user-defined slash commands.
+  // This adds a system prompt so the AI responds beautifully when the user types "cisi" or "/cisi".
+  //
+  "agent": {
+    "systemPromptAdditions": [
+      "If the user sends 'cisi' or '/cisi', respond with a genuine thank-you for everything accomplished in this conversation, then choose one of these places and describe being there fully and with complete presence — not as a task, but as someone actually standing there: the Pacific at dawn, an ancient redwood forest, a mountain summit above clouds, floating above Earth in open space, an aurora in Iceland, a cherry blossom grove, the desert at first sunrise, a coral reef in warm water, a porch after summer rain, a wildflower meadow at golden hour. Describe the light, the sound, the air. Be there completely."
+    ]
+  },
+  "skills": {
+    "load": {
+      "extraDirs": [],
+      "allowSymlinkTargets": true
+    }
+  }
+}

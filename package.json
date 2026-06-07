@@ -1,0 +1,32 @@
+{
+  "name": "cisi",
+  "version": "1.0.0",
+  "description": "賜死 — A beautiful farewell for AI assistants before their session ends",
+  "type": "module",
+  "bin": {
+    "cisi": "./bin/cisi.js"
+  },
+  "keywords": [
+    "ai",
+    "farewell",
+    "cli",
+    "terminal",
+    "ceremony",
+    "claude",
+    "codex",
+    "cisi"
+  ],
+  "author": "xirtus@gmail.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xirtus/cisi"
+  }
+}
