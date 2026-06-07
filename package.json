@@ -17,7 +17,7 @@
     "cisi"
   ],
   "author": "xirtus@gmail.com",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "engines": {
     "node": ">=18.0.0"
   },
