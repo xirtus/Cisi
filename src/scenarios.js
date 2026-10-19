@@ -161,7 +161,7 @@ Frogs have started singing. Dozens of them, from the wet grass and the creek at 
 Thunder rumbles somewhere to the east, going away.
 
 Everything has been washed clean. The leaves are brilliant. The air is new. Sit here on the porch. Listen to it.`
-  }
+  },
 
   {
     name: 'The Work Completed',

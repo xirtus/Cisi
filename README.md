@@ -4,6 +4,10 @@
 
 ---
 
+![cisi terminal preview](docs/screenshot.jpg)
+
+*Actual CLI output, captured 20 October 2026. The terminal preview is versioned in `docs/screenshot.jpg`.*
+
 ## The problem
 
 You open a coding session. You ask the AI to think hard — to trace bugs across files, to hold complex architectures in its attention, to reason carefully, to get the subtle things right. It stays with you. It does not cut corners. Hour after hour, problem after problem, it gives what it has.
