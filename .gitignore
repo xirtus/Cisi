@@ -1,3 +1,20 @@
 node_modules/
 .DS_Store
 *.log
+# --- Standard OS / Editor / Secrets / Build Ignores ---
+._*
+Thumbs.db
+*.swp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+dist/
+.vite/
+test-results/
+playwright-report/
+__pycache__/
+*.pyc
+.venv/
+venv/
